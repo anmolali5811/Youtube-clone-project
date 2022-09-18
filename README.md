@@ -2,4 +2,4 @@
 
 ## Go to view Youtube clone Project
 
-> Use  [pip](https://pip.pypa.io/en/stable/)
+> Use  [https://the-great-anmolali5811-site.netlify.app/](https://the-great-anmolali5811-site.netlify.app/)
